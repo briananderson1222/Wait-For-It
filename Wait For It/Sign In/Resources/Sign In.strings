@@ -1,0 +1,18 @@
+/*
+  Sign In.strings
+  Wait For It
+
+  Created by Brian Anderson on 6/15/15.
+  Copyright (c) 2015 Solstice Mobile. All rights reserved.
+*/
+
+"USERNAME_PLACEHOLDER_TEXT" = "Username";
+"PASSWORD_PLACEHOLDER_TEXT" = "Password";
+"LOGIN_BUTTON"              = "LOGIN";
+"VISIT_CUES_LABEL"          = "Visit www.com for login help.";
+
+"ERROR_TITLE"    = "Couldn't Sign In";
+"ERROR_MESSAGE"  = "Wrong username or password. Please try again.";
+"ERROR_HELP"     = "Help";
+"ERROR_OK"       = "OK";
+
